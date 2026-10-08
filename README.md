@@ -1,6 +1,6 @@
 # ARTIFICIAL INTELLIGENCE (CSA1708)
 
-Coursework and practical lab implementations for Artificial Intelligence.
+Coursework, assessment tools, and practical lab implementations for Artificial Intelligence.
 
 ## Repository Structure
 
@@ -19,9 +19,24 @@ Contains the Python implementations, algorithms, and documentation for all 10 la
 
 ---
 
-### 📚 Course Units
+### 📚 Course Units & Assessment Tools
 - **[UNIT 1: Introduction to AI & Problem Solving](./UNIT%201/)**
+  - [ASSESSMENT TOOL 1](./UNIT%201/ASSESSMENT%20TOOL%201/) (Assignment / Quiz 1)
+  - [ASSESSMENT TOOL 2](./UNIT%201/ASSESSMENT%20TOOL%202/) (Tutorial / Problem Solving)
+  - [ASSESSMENT TOOL 3](./UNIT%201/ASSESSMENT%20TOOL%203/) (Unit Test 1 / Slip Test)
 - **[UNIT 2: Knowledge Representation & Logic](./UNIT%202/)**
-- **[UNIT 3: Reasoning Under Uncertainty & Probabilistic Reasoning](./UNIT%203/)**
+  - [ASSESSMENT TOOL 1](./UNIT%202/ASSESSMENT%20TOOL%201/) (Assignment / Quiz 2)
+  - [ASSESSMENT TOOL 2](./UNIT%202/ASSESSMENT%20TOOL%202/) (Tutorial / Problem Solving)
+  - [ASSESSMENT TOOL 3](./UNIT%202/ASSESSMENT%20TOOL%203/) (Unit Test 2 / Slip Test)
+- **[UNIT 3: Reasoning Under Uncertainty](./UNIT%203/)**
+  - [ASSESSMENT TOOL 1](./UNIT%203/ASSESSMENT%20TOOL%201/) (Assignment / Quiz 3)
+  - [ASSESSMENT TOOL 2](./UNIT%203/ASSESSMENT%20TOOL%202/) (Tutorial / Problem Solving)
+  - [ASSESSMENT TOOL 3](./UNIT%203/ASSESSMENT%20TOOL%203/) (Unit Test 3 / Slip Test)
 - **[UNIT 4: Planning & Machine Learning](./UNIT%204/)**
+  - [ASSESSMENT TOOL 1](./UNIT%204/ASSESSMENT%20TOOL%201/) (Assignment / Quiz 4)
+  - [ASSESSMENT TOOL 2](./UNIT%204/ASSESSMENT%20TOOL%202/) (Tutorial / Problem Solving)
+  - [ASSESSMENT TOOL 3](./UNIT%204/ASSESSMENT%20TOOL%203/) (Unit Test 4 / Slip Test)
 - **[UNIT 5: Advanced AI, Expert Systems & Applications](./UNIT%205/)**
+  - [ASSESSMENT TOOL 1](./UNIT%205/ASSESSMENT%20TOOL%201/) (Assignment / Quiz 5)
+  - [ASSESSMENT TOOL 2](./UNIT%205/ASSESSMENT%20TOOL%202/) (Tutorial / Problem Solving)
+  - [ASSESSMENT TOOL 3](./UNIT%205/ASSESSMENT%20TOOL%203/) (Unit Test 5 / Slip Test)
