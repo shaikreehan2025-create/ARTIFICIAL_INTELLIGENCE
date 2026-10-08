@@ -10,3 +10,8 @@ This unit covers the foundational concepts of Artificial Intelligence, problem f
 - Informed (Heuristic) Search: Greedy Best-First Search, A* Algorithm
 - Constraint Satisfaction Problems (CSP): 8-Queens Problem, Crypt-Arithmetic
 - Classic AI Problems: 8-Puzzle, Water Jug, Missionaries & Cannibals, Vacuum Cleaner Agent
+
+### Assessment Folders:
+- 📁 [ASSESSMENT TOOL 1](./ASSESSMENT%20TOOL%201/): Assignment / Quiz 1
+- 📁 [ASSESSMENT TOOL 2](./ASSESSMENT%20TOOL%202/): Tutorial / Problem Solving
+- 📁 [ASSESSMENT TOOL 3](./ASSESSMENT%20TOOL%203/): Unit Test 1 / Slip Test
