@@ -10,3 +10,8 @@ This unit explores handling uncertainty, non-monotonic reasoning, and probabilis
 - Bayesian Belief Networks: Construction and Exact Inference
 - Certainty Factor Theory and Dempster-Shafer Theory
 - Fuzzy Logic: Fuzzy Sets, Membership Functions, and Fuzzy Inference
+
+### Assessment Folders:
+- 📁 [ASSESSMENT TOOL 1](./ASSESSMENT%20TOOL%201/): Assignment / Quiz 3
+- 📁 [ASSESSMENT TOOL 2](./ASSESSMENT%20TOOL%202/): Tutorial / Problem Solving
+- 📁 [ASSESSMENT TOOL 3](./ASSESSMENT%20TOOL%203/): Unit Test 3 / Slip Test
