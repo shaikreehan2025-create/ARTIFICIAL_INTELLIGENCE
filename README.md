@@ -5,7 +5,7 @@ Coursework, assessment tools, and practical lab implementations for Artificial I
 ## Repository Structure
 
 ### 🔬 [LAB Experiments](./LAB/)
-Contains the Python implementations, algorithms, and documentation for all 10 laboratory experiments:
+Contains the Python implementations, algorithms, and documentation for all 16 laboratory experiments:
 1. **EXPERIMENT 1**: 8-Puzzle Problem (Breadth-First Search)
 2. **EXPERIMENT 2**: 8-Queen Problem (Backtracking)
 3. **EXPERIMENT 3**: Water Jug Problem (State-Space BFS)
@@ -16,6 +16,12 @@ Contains the Python implementations, algorithms, and documentation for all 10 la
 8. **EXPERIMENT 8**: Depth-First Search (DFS Graph Traversal)
 9. **EXPERIMENT 9**: Travelling Salesman Problem (TSP Permutations)
 10. **EXPERIMENT 10**: A* Algorithm (Heuristic Search)
+11. **EXPERIMENT 11**: Map Coloring Problem (CSP Backtracking Search)
+12. **EXPERIMENT 12**: Tic Tac Toe Game (Adversarial Simulation & Evaluation)
+13. **EXPERIMENT 13**: Minimax Algorithm for Gaming (Game Tree Optimization)
+14. **EXPERIMENT 14**: Alpha & Beta Pruning Algorithm for Gaming (Branch Pruning)
+15. **EXPERIMENT 15**: Decision Tree (ID3 Classification with Entropy & Info Gain)
+16. **EXPERIMENT 16**: Feed Forward Neural Network (MLP with Backpropagation)
 
 ---
 
