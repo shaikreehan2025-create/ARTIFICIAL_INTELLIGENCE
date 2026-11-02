@@ -2,7 +2,7 @@
 
 This directory contains the Python and Prolog implementations, algorithms, and documentation for Artificial Intelligence lab experiments.
 
-## Complete Experiments List (1 to 25):
+## Complete Experiments List (1 to 30):
 1. **EXPERIMENT 1**: 8-Puzzle Problem (Breadth-First Search)
 2. **EXPERIMENT 2**: 8-Queen Problem (Backtracking)
 3. **EXPERIMENT 3**: Water Jug Problem (State-Space BFS)
@@ -28,7 +28,12 @@ This directory contains the Python and Prolog implementations, algorithms, and d
 23. **EXPERIMENT 23**: Prolog Program to Implement Family Tree
 24. **EXPERIMENT 24**: Prolog Program for Diet Suggestion Based on Disease
 25. **EXPERIMENT 25**: Prolog Program for Monkey Banana Problem
+26. **EXPERIMENT 26**: Prolog Program for Fruit Color Using Backtracking
+27. **EXPERIMENT 27**: Prolog Program to Implement Best First Search
+28. **EXPERIMENT 28**: Prolog Program for Medical Diagnosis
+29. **EXPERIMENT 29**: Prolog Program for Forward Chaining
+30. **EXPERIMENT 30**: Prolog Program for Backward Chaining
 
 Each experiment includes:
-- Source Code (`.py` for Python experiments 1–16, `.pl` for Prolog experiments 17–25)
+- Source Code (`.py` for Python experiments 1–16, `.pl` for Prolog experiments 17–30)
 - Full Lab Record Document (`.docx`) with Aim, Algorithm, Code, Execution Screenshots, and Result.
