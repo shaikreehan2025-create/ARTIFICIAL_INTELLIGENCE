@@ -1,8 +1,8 @@
 # LAB - Artificial Intelligence Lab Experiments (CSA1708)
 
-This directory contains the Python implementations, algorithms, and documentation for Artificial Intelligence lab experiments.
+This directory contains the Python and Prolog implementations, algorithms, and documentation for Artificial Intelligence lab experiments.
 
-## Complete Experiments List (1 to 16):
+## Complete Experiments List (1 to 25):
 1. **EXPERIMENT 1**: 8-Puzzle Problem (Breadth-First Search)
 2. **EXPERIMENT 2**: 8-Queen Problem (Backtracking)
 3. **EXPERIMENT 3**: Water Jug Problem (State-Space BFS)
@@ -19,7 +19,16 @@ This directory contains the Python implementations, algorithms, and documentatio
 14. **EXPERIMENT 14**: Alpha & Beta Pruning Algorithm for Gaming (Search Optimization)
 15. **EXPERIMENT 15**: Decision Tree (ID3 Algorithm with Information Gain & Entropy)
 16. **EXPERIMENT 16**: Feed Forward Neural Network (Multi-Layer Perceptron with Backpropagation)
+17. **EXPERIMENT 17**: Prolog Program to Sum the Integers from 1 to N
+18. **EXPERIMENT 18**: Prolog Program for a Database with Name and Date of Birth
+19. **EXPERIMENT 19**: Prolog Program for Student Teacher Subject Code Database
+20. **EXPERIMENT 20**: Prolog Program for Planets Database
+21. **EXPERIMENT 21**: Prolog Program to Implement Towers of Hanoi
+22. **EXPERIMENT 22**: Prolog Program to Check Bird Flight
+23. **EXPERIMENT 23**: Prolog Program to Implement Family Tree
+24. **EXPERIMENT 24**: Prolog Program for Diet Suggestion Based on Disease
+25. **EXPERIMENT 25**: Prolog Program for Monkey Banana Problem
 
 Each experiment includes:
-- Python Source Code (`.py`)
-- Full Lab Record Document (`.docx`) with Aim, Algorithm, Python IDLE Editor Code Screenshot, IDLE Shell Output Screenshot, and Result.
+- Source Code (`.py` for Python experiments 1–16, `.pl` for Prolog experiments 17–25)
+- Full Lab Record Document (`.docx`) with Aim, Algorithm, Code, Execution Screenshots, and Result.
